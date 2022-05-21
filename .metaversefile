@@ -1,7 +1,7 @@
 {
-  "name": "hovercraft",
-  "description": "hovercraft",
-  "start_url": "hovercraft.glb",
+  "name": "phoenix",
+  "description": "phoenix",
+  "start_url": "phoenix.glb",
   "components": [
     {
       "key": "sit",
