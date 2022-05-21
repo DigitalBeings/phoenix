@@ -1,8 +1,10 @@
-# hovercraft
+# Phoenix
 
 Rigged glTF vehicle that an avatar can sit on and commandeer.
 
-![](https://i.imgur.com/wxLr4Vq.png)
+![image](https://user-images.githubusercontent.com/64185677/169653413-2d3e2241-b89f-4780-9407-e948c7998042.png)
+
+"phoenix bird" (https://skfb.ly/6vLBp) by NORBERTO-3D is licensed under Creative Commons Attribution (http://creativecommons.org/licenses/by/4.0/).
 
 ## `.metaversefile`
 
@@ -11,8 +13,8 @@ The .metaversefile goes in the directory with the GLB file in order to create th
 
 ```
 {
-  "name": "hovercraft",
-  "start_url": "hovercraft.glb",
+  "name": "phoenix",
+  "start_url": "phoenix.glb",
   "components": [
     {
       "key": "sit",
